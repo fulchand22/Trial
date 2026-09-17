@@ -1,0 +1,24 @@
+{
+  "name": "trial",
+  "version": "1.0.0",
+  "description": "practice purpose",
+  "homepage": "https://github.com/fulchand22/Trial#readme",
+  "bugs": {
+    "url": "https://github.com/fulchand22/Trial/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fulchand22/Trial.git"
+  },
+  "license": "ISC",
+  "author": "Fulchand",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
